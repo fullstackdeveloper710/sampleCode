@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TFL Hand Detection</string>
+    <string name="btn_take_photo">Take Photo</string>
+</resources>
